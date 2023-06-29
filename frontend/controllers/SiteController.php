@@ -256,4 +256,13 @@ class SiteController extends Controller
             'model' => $model
         ]);
     }
+
+    /**
+     * @return string
+     * Displays Terms and Conditions Page
+     */
+    public function actionTerms()
+    {
+        return $this->render('terms');
+    }
 }
