@@ -22,6 +22,7 @@ $this->params['breadcrumbs'][] = $this->title;
                     <p>E. By entering the competition the customer agrees to abide by the following terms and conditions;</p>
 
                     <h3>1. MECHANICS OF THE PROMOTION / MODE OF ENTRY</h3>
+                    <div style="margin-left: 30px;">
                     <p>1.1. The Skiza service is a personalized ring back tone service whereby you can download or record a ringtone. </p>
                     <p>1.2. The Skiza promotion is available to both Post & Pre pay subscribers available on Safaricom network.</p>
                     <p>1.3. The promotion will run through Mtech’s Facebook social media account. The account is titled <b>  Mtech Music ke</b>.</p>
@@ -34,41 +35,40 @@ $this->params['breadcrumbs'][] = $this->title;
                         The monthly draws will build up to the final draw for the grand cash prize.
                         The draws will be held via our online portal where the mobile numbers of all the participants will be included in the pool for selection of winners.</p>
                     <p>1.10. The draws will be held as below;</p>
+                    <b>
                     <ul>
                         <li>1st draw date – 4th August </li>
                         <li>2nd draw date – 4th September </li>
                         <li>3rd draw date – 6th October</li>
                     </ul>
+                    </b>
                     <p>1.11.  Prizes to be won shall be as below;</p>
-                    <ul>
-                        <li>1st prize-KES 20,000 </li>
-                        <li>2nd Prize – KES 20,000 </li>
-                        <li>3rd Prize – KES 20,000 & KES 40,000 </li>
-                    </ul>
+                    <b>
+                        <ul>
+                            <li>1st prize-KES 20,000 </li>
+                            <li>2nd Prize – KES 20,000 </li>
+                            <li>3rd Prize – KES 20,000 & KES 40,000 </li>
+                        </ul>
+                    </b>
+
                     <p>1.12. Once the winners are selected the cash prizes shall be disbursed via Mtech’s registered Paybill number, which is registered under the name <b>MTECH LIMITED</b>. Winners will receive their Net cash prizes via their M-pesa registered numbers after all applicable tax deductions have been made. </p>
                     <p>1.13. Winners should claim their cash prize within 14 working days.</p>
                     <p>1.14. In case of any disputes arising from these promotions, participants can send an email to <a href="mailto:contentkenya@mtechcomm.co.ke">contentkenya@mtechcomm.co.ke</a> or call <b>  0712222299</b>.</p>
-                    <p>1.15 . Safaricom reserves the right to vary or amend any features of the Skiza Service.
-                        Such changes shall be advertised on Safaricom’s network and may also be published in the local press. Such changes shall not affect ring-back tones that participants have purchased as at the date of the changes.
-                    </p>
-
-
+                    <p>1.15. Safaricom reserves the right to vary or amend any features of the Skiza Service.Such changes shall be advertised on Safaricom’s network and may also be published in the local press. Such changes shall not affect ring-back tones that participants have purchased as at the date of the changes.</p>
+                    </div>
                     <h3>2. PERSONAL DATA PROTECTION </h3>
                     <p>2.1.    So far Mtech processes any personal data (including name, mobile/telephone details, and other contact or personal details) relating to customers participating in the promotion. which is acquired or collected during the promotion, Mtech shall:</p>
-                    <p>2.1.1.  Process lawfully, fairly and in a transparent manner in relation to any data subject in accordance with the right to privacy of the data subjects.</p>
-                    <p>2.1.2.  Process the personal data only for the purposes of this promotion only in accordance with instructions contained in this T&Cs. </p>
-                    <p>2.1.3.  Collect and share personal data for explicit specified and legitimate purpose adequate, relevant, and limited to what is necessary in relation to the purposes for which it is processed and not further processed in a manner incompatible with those purposes.</p>
-                    <p>2.1.4.  Not otherwise modify, amend or alter the contents of the personal data or disclose or permit the disclosure of any of the personal data to any third party. </p>
-                    <p>2.1.5.  Implement appropriate technical and organizational measures to protect the personal data against unauthorized or unlawful processing and against accidental loss, destruction, damage, alteration or disclosure. </p>
-                    <p>2.1.6.  Ensure that personal data is not transferred outside Kenya, unless there is proof of adequate data protection safeguards or written consent from the data subject.  </p>
-                    <p>2.1.7.  Ensure personnel who need to have access to the personal data are granted access to such data and only for the purposes of the performance of this promotion and ensure that all of the Parties’ personnel required to access the personal data are informed of the confidential nature of the personal data and comply with the obligations set out in this promotion. </p>
-                    <p>2.1.8.  Ensure that before processing of personal data in relation to a minor consent is granted by the parent or the guardian. </p>
-                    <p>2.1.9.  Not publish, disclose or divulge any of the personal data to any third party (including the data subject) unless directed to do so in writing by the other Party.</p>
-
-
-
-
-
+                    <div style="margin-left: 30px;">
+                        <p>2.1.1.  Process lawfully, fairly and in a transparent manner in relation to any data subject in accordance with the right to privacy of the data subjects.</p>
+                        <p>2.1.2.  Process the personal data only for the purposes of this promotion only in accordance with instructions contained in this T&Cs. </p>
+                        <p>2.1.3.  Collect and share personal data for explicit specified and legitimate purpose adequate, relevant, and limited to what is necessary in relation to the purposes for which it is processed and not further processed in a manner incompatible with those purposes.</p>
+                        <p>2.1.4.  Not otherwise modify, amend or alter the contents of the personal data or disclose or permit the disclosure of any of the personal data to any third party. </p>
+                        <p>2.1.5.  Implement appropriate technical and organizational measures to protect the personal data against unauthorized or unlawful processing and against accidental loss, destruction, damage, alteration or disclosure. </p>
+                        <p>2.1.6.  Ensure that personal data is not transferred outside Kenya, unless there is proof of adequate data protection safeguards or written consent from the data subject.  </p>
+                        <p>2.1.7.  Ensure personnel who need to have access to the personal data are granted access to such data and only for the purposes of the performance of this promotion and ensure that all of the Parties’ personnel required to access the personal data are informed of the confidential nature of the personal data and comply with the obligations set out in this promotion. </p>
+                        <p>2.1.8.  Ensure that before processing of personal data in relation to a minor consent is granted by the parent or the guardian. </p>
+                        <p>2.1.9.  Not publish, disclose or divulge any of the personal data to any third party (including the data subject) unless directed to do so in writing by the other Party.</p>
+                    </div>
                 </div>
         </div>
 
