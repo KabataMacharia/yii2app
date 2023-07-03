@@ -35,21 +35,20 @@ $this->params['breadcrumbs'][] = $this->title;
                         The monthly draws will build up to the final draw for the grand cash prize.
                         The draws will be held via our online portal where the mobile numbers of all the participants will be included in the pool for selection of winners.</p>
                     <p>1.10. The draws will be held as below;</p>
-                    <b>
-                    <ul>
+
+                    <ul style="font-weight: bold;">
                         <li>1st draw date – 4th August </li>
                         <li>2nd draw date – 4th September </li>
                         <li>3rd draw date – 6th October</li>
                     </ul>
-                    </b>
+
                     <p>1.11.  Prizes to be won shall be as below;</p>
-                    <b>
-                        <ul>
+
+                        <ul style="font-weight: bold;">
                             <li>1st prize-KES 20,000 </li>
                             <li>2nd Prize – KES 20,000 </li>
                             <li>3rd Prize – KES 20,000 & KES 40,000 </li>
                         </ul>
-                    </b>
 
                     <p>1.12. Once the winners are selected the cash prizes shall be disbursed via Mtech’s registered Paybill number, which is registered under the name <b>MTECH LIMITED</b>. Winners will receive their Net cash prizes via their M-pesa registered numbers after all applicable tax deductions have been made. </p>
                     <p>1.13. Winners should claim their cash prize within 14 working days.</p>
