@@ -6,6 +6,9 @@ use yii\helpers\Html;
 
 $this->title = 'Terms';
 $this->params['breadcrumbs'][] = $this->title;
+$asset = \frontend\assets\AppAsset::register($this);
+$filepath = $asset->baseUrl.'/media/WHO-IS-YOUR-GUY-REMIX.mp4';
+$filepath2 = $asset->baseUrl.'/media/WHO-IS-YOUR-GUY-REMIX.webm';
 ?>
 <div class="site-terms">
 <!--    <h1>--><?php //= Html::encode($this->title) ?><!--</h1>-->
@@ -73,6 +76,23 @@ $this->params['breadcrumbs'][] = $this->title;
                         <p>2.1.8.  Ensure that before processing of personal data in relation to a minor consent is granted by the parent or the guardian. </p>
                         <p>2.1.9.  Not publish, disclose or divulge any of the personal data to any third party (including the data subject) unless directed to do so in writing by the other Party.</p>
                     </div>
+
+                    <div class="card text-center">
+                        <div class="card-header">
+                            Featured SKIZA Tune
+                        </div>
+                        <div class="card-body">
+                            <video width="100%" height="500" controls preload="auto" autoplay>
+                                <source src="<?= $filepath ?>" type="video/mp4">
+                                <source src="<?= $filepath2 ?>" type="video/webm">
+                                Your browser does not support the video tag.
+                            </video>
+                        </div>
+                        <div class="card-footer text-muted">
+
+                        </div>
+                    </div>
+
                 </div>
         </div>
 
