@@ -77,21 +77,28 @@ $filepath2 = $asset->baseUrl.'/media/WHO-IS-YOUR-GUY-REMIX.webm';
                         <p>2.1.9.  Not publish, disclose or divulge any of the personal data to any third party (including the data subject) unless directed to do so in writing by the other Party.</p>
                     </div>
 
-                    <div class="card text-center">
-                        <div class="card-header">
-                            Featured SKIZA Tune
-                        </div>
-                        <div class="card-body">
-                            <video width="100%" height="500" controls preload="auto" autoplay>
-                                <source src="<?= $filepath ?>" type="video/mp4">
-                                <source src="<?= $filepath2 ?>" type="video/webm">
-                                Your browser does not support the video tag.
-                            </video>
-                        </div>
-                        <div class="card-footer text-muted">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 offset-md-3">.
+                                <div class="card  text-center">
+                                    <div class="card-header">
+                                        Featured SKIZA Tune
+                                    </div>
+                                    <div class="card-body">
+                                        <video width="100%" height="500" controls preload="auto" autoplay>
+                                            <source src="<?= $filepath ?>" type="video/mp4">
+                                            <source src="<?= $filepath2 ?>" type="video/webm">
+                                            Your browser does not support the video tag.
+                                        </video>
+                                    </div>
+                                    <div class="card-footer text-muted">
 
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
+
 
                 </div>
         </div>
